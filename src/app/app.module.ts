@@ -14,7 +14,7 @@ import { FontAwesomeModule, FaIconLibrary } from '@fortawesome/angular-fontaweso
     AppComponent,
     PaginaComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
   ],
 
   imports: [

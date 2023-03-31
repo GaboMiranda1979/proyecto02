@@ -76,7 +76,7 @@ footer {
    -webkit-transform: scale(2);
    color: #fff;
    background: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
- -webkit-background-clip: text;
+ /* -webkit-background-clip: text; */
  -webkit-text-fill-color: transparent;
  transition: all 265ms ease-in;
  }
