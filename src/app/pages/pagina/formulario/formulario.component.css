@@ -1,0 +1,38 @@
+@media screen and (min-width: 52em) {
+  .form {
+      min-width: 52em;
+  }
+}
+
+form{
+  margin: 3em;
+  padding: 3em;
+  background-image:url('img/copa.jpg');
+  background-size: cover;
+
+}
+label{
+  color: rgb(227, 235, 234);
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+#sex{
+  color: rgb(227, 235, 234);
+  font-size: large;
+  font-style: normal;
+  font-weight:lighter;
+}
+
+button{
+  border: #000;
+  border-radius: 1em;
+  border-style:groove;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  width: 8em;
+  height: 3em;
+  margin: 2em;
+
+}
